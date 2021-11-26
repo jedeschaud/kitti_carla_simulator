@@ -1,2 +1,2 @@
-# kitti_carla_simulator
+# KITTI-CARLA dataset
 Python scripts to generate the KITTI-CARLA dataset
